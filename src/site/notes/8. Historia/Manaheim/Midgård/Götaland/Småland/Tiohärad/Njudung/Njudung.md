@@ -1,13 +1,12 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/8-historia/manaheim/midgard/goetaland/smaland/tiohaerad/njudung/njudung/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/8-historia/manaheim/midgard/goetaland/smaland/tiohaerad/njudung/njudung/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
-
+Ortnamnet Njudung finns belagt från 1170-talet och anses bestå av ett ord niudh med innebörden ’klump’, ’höjd’, sannolikt syftande på en markerad höjd i landskapet, eventuellt Tjustkulle (Agertz 2008, s 168 och 216). Njudung bestod av två härader, Östra och Västra. 
 
 Under medeltiden ingick Njudung tillsammans med de två andra småländska (folk)landen - Finnveden och Värend, i Tiohärads lagsaga. 
 
-Ortnamnet Njudung finns belagt från 1170-talet och anses bestå av ett ord niudh med innebörden ’klump’, ’höjd’, sannolikt syftande på en markerad höjd i landskapet, eventuellt Tjustkulle (Agertz 2008, s 168 och 216). Njudung bestod av två härader, Östra och Västra. 
 
 I [[8. Historia/Manaheim/Midgård/Götaland/Småland/Tiohärad/Njudung/Västra Härad/Västra Härad\|Västra Härad]] var [[8. Historia/Manaheim/Midgård/Götaland/Småland/Tiohärad/Njudung/Västra Härad/Ekesjö\|Ekesjö]] ([[Frank/8. Historia/Manaheim/Midgård/Götaland/Småland/Tiohärad/Njudung/Västra Härad/Eksjöhovgård\|Frank/8. Historia/Manaheim/Midgård/Götaland/Småland/Tiohärad/Njudung/Västra Härad/Eksjöhovgård]] vid [[8. Historia/Manaheim/Midgård/Götaland/Småland/Tiohärad/Njudung/Västra Härad/Sävsjö\|Sävsjö]]) huvudort och i [[8. Historia/Manaheim/Midgård/Götaland/Småland/Tiohärad/Njudung/Östra Härad/Östra härad\|Östra härad]] [[Vetlanda\|Vetlanda]]. Det har ansetts möjligt och kanske till och med troligt att den medeltida landsindelningen återgår på förhistoriska, åtminstone vikingatida, förhållanden (Burström 1991, s 55; Hansson 1999b, s 46f).
 [2017-01-1.pdf (jonkopingslansmuseum.se)](https://jonkopingslansmuseum.se/wp-content/uploads/2017/12/2017-01-1.pdf)
